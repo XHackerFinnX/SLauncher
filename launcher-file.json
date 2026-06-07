@@ -3,7 +3,7 @@
     "version": "1.9.4",
     "files": [
         {   
-            "version": "v1.0",
+            "version": "v1.1",
             "name": "SLTimeGame.exe",
             "path": "C:\\.stoneworld\\access",
             "url": "https://github.com/XHackerFinnX/SLauncher/raw/main/SLTimeGame.exe"
@@ -15,7 +15,7 @@
             "url": "https://github.com/XHackerFinnX/SLauncher/raw/main/SLUpdate.exe"
         },
         {
-            "version": "v1.0",
+            "version": "v1.1",
             "name": "SWLogViewer.exe",
             "path": "C:\\.stoneworld\\access",
             "url": "https://github.com/XHackerFinnX/SLauncher/raw/main/SWLogViewer.exe"
